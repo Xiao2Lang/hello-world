@@ -1,3 +1,3 @@
 # hello-world
-Hello,this is Xiao2Lang's GitHub. Glad to share my projects with you.
+Hello,it is Xiao2Lang's GitHub. Gled to share my projects with you.
 <p> Hello World </p>
